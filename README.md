@@ -17,3 +17,4 @@ This project was carried out together with [Burak Akyüz](https://github.com/bur
 - User can delete & update a meal or exercise that he/she added by mistake. He/she can create a special exercise or meal for himself/herself.
 
 ![PublicUI](https://github.com/burakyuz1/NutriCal/blob/master/NutriCal/Resources/nutrigif.gif?raw=true)
+
